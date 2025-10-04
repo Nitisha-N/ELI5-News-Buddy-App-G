@@ -1,0 +1,7 @@
+{
+  "name": "ELI5 NEWS Buddy",
+  "description": "A web application that simplifies complex news articles for children and non-native speakers using AI. It includes quizzes, audio narration, and gamified progress tracking to make learning fun and engaging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
